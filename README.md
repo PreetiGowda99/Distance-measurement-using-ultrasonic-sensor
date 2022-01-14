@@ -1,1 +1,1 @@
-# digital-distance-meter
+# distance measurement using ultrasonic sensor
